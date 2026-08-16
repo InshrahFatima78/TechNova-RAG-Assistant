@@ -1,0 +1,72 @@
+TECHNOVA AI SOLUTIONS
+Refund and Support Policy
+
+This document explains the general refund and customer support policies of TechNova AI Solutions.
+
+REFUND POLICY
+
+Project-Based Services
+
+For custom AI development and software projects, refund eligibility depends on the project agreement and development stage.
+
+If a project has not started, a client may request cancellation according to the terms agreed in the project contract.
+
+Once development work has started, refunds may depend on the amount of work already completed.
+
+Completed Work
+
+Payments for completed development work may not be refundable.
+
+If a project has been delivered according to the agreed requirements, the client is responsible for reviewing the delivered work within the agreed review period.
+
+Revision Requests
+
+If the delivered project does not match the agreed requirements, the client may request revisions according to the original project scope.
+
+Requests for completely new features that were not included in the original project scope may require an additional fee.
+
+CUSTOM AI PROJECTS
+
+Custom AI projects are developed according to the requirements agreed upon with the client.
+
+The final scope, timeline, pricing, and revision policy should be confirmed before development begins.
+
+SUPPORT POLICY
+
+Standard Support
+
+TechNova provides support for issues related to the delivered project according to the support terms agreed with the client.
+
+Technical Issues
+
+If a technical issue is caused by the delivered software, TechNova will review the issue and provide assistance according to the applicable support agreement.
+
+Third-Party Services
+
+Issues caused by third-party services, APIs, hosting providers, or external platforms may require additional investigation.
+
+Additional Work
+
+Requests that are outside the original project scope may be treated as new development work and may require additional charges.
+
+SUPPORT HOURS
+
+Monday to Friday: 9:00 AM to 6:00 PM
+
+Saturday: 10:00 AM to 2:00 PM
+
+Sunday: Closed
+
+RESPONSE TIME
+
+General support requests are normally reviewed within 1 to 2 business days.
+
+Urgent support may be available depending on the client's support agreement.
+
+CONTACT
+
+For support or refund-related questions, customers should contact:
+
+Email: support@technova-ai.example
+
+Note: This is a fictional company created for an AI RAG chatbot demonstration project.

@@ -1,0 +1,69 @@
+TECHNOVA AI SOLUTIONS
+Company Overview
+
+TechNova AI Solutions is an artificial intelligence and software development company that helps businesses improve their operations through AI-powered technology.
+
+The company specializes in AI chatbot development, machine learning solutions, document-based AI assistants, business automation, and custom AI applications.
+
+Our Mission
+
+Our mission is to help businesses reduce repetitive work, improve customer support, and make better use of their data through practical AI solutions.
+
+Our Vision
+
+Our vision is to make advanced artificial intelligence accessible to businesses of all sizes. We aim to create reliable, user-friendly, and scalable AI systems that solve real-world business problems.
+
+Our Core Services
+
+1. AI Chatbot Development
+
+TechNova develops custom AI chatbots for websites and business applications. These chatbots can answer customer questions, provide information, and assist users with common tasks.
+
+2. RAG-Based AI Assistants
+
+TechNova develops Retrieval-Augmented Generation (RAG) assistants that allow users to ask questions about company documents, knowledge bases, and internal information.
+
+3. Machine Learning Solutions
+
+The company develops machine learning solutions for prediction, classification, data analysis, and business intelligence.
+
+4. Business Automation
+
+TechNova creates automation workflows that reduce repetitive manual tasks and connect different business tools and applications.
+
+5. Custom AI Applications
+
+The company develops customized AI applications based on specific client requirements and business needs.
+
+Company Values
+
+Innovation:
+We continuously explore new technologies and practical ways to use artificial intelligence.
+
+Reliability:
+We focus on building dependable systems that provide useful and consistent results.
+
+User Experience:
+We design AI solutions that are easy to use and understand.
+
+Privacy:
+We respect client data and aim to follow responsible data handling practices.
+
+Customer Focus:
+We work closely with clients to understand their goals and develop solutions that address their specific needs.
+
+Business Hours
+
+Monday to Friday: 9:00 AM to 6:00 PM
+
+Saturday: 10:00 AM to 2:00 PM
+
+Sunday: Closed
+
+Contact
+
+Email: support@technova-ai.example
+
+Website: www.technova-ai.example
+
+Note: This is a fictional company created for an AI RAG chatbot demonstration project.

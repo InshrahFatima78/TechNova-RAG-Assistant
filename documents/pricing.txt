@@ -1,0 +1,124 @@
+TECHNOVA AI SOLUTIONS
+Pricing Plans
+
+TechNova AI Solutions offers flexible pricing for AI and software development services. The final project cost depends on the project requirements, complexity, integrations, and development time.
+
+AI CHATBOT DEVELOPMENT
+
+Basic AI Chatbot
+
+Starting Price: $100
+
+The basic AI chatbot package is suitable for simple business websites and FAQ-based customer support.
+
+Includes:
+
+- Basic conversational chatbot
+- Frequently asked questions
+- Business information
+- Basic customization
+- Website integration
+
+Standard AI Chatbot
+
+Starting Price: $250
+
+The standard package is suitable for businesses that need a more advanced AI chatbot.
+
+Includes:
+
+- AI-powered conversations
+- Custom business knowledge
+- FAQ handling
+- Lead collection
+- Basic integrations
+- Custom chatbot behavior
+
+Advanced AI Chatbot
+
+Starting Price: $500
+
+The advanced package is designed for businesses that require a customized AI chatbot solution.
+
+Includes:
+
+- Advanced AI chatbot
+- Custom knowledge base
+- Multiple integrations
+- Advanced conversation handling
+- Custom workflows
+- Business-specific features
+
+RAG-BASED AI ASSISTANT
+
+Basic RAG Assistant
+
+Starting Price: $250
+
+Suitable for businesses that need an AI assistant that can answer questions from a limited number of documents.
+
+Includes:
+
+- Document ingestion
+- PDF document processing
+- Vector database
+- Semantic search
+- AI-generated answers
+
+Advanced RAG Assistant
+
+Starting Price: $500
+
+Suitable for businesses that need a more advanced document-based AI assistant.
+
+Includes:
+
+- Multiple document support
+- Advanced document retrieval
+- Vector database
+- AI-powered question answering
+- Source references
+- Conversation history
+- Custom knowledge base
+
+MACHINE LEARNING PROJECTS
+
+Machine learning project pricing starts from $300.
+
+The final price depends on:
+
+- Dataset size
+- Data preprocessing requirements
+- Model complexity
+- Number of models
+- Model evaluation
+- Deployment requirements
+
+BUSINESS AUTOMATION
+
+Business automation projects start from $200.
+
+The final cost depends on the number of applications, workflows, integrations, and automation requirements.
+
+CUSTOM AI APPLICATIONS
+
+Custom AI application pricing is determined after reviewing the project requirements.
+
+The project price depends on:
+
+- Features
+- Development complexity
+- Third-party integrations
+- AI model requirements
+- Deployment
+- Maintenance requirements
+
+IMPORTANT PRICING INFORMATION
+
+All prices listed in this document are starting prices for demonstration purposes.
+
+The final project price is confirmed after reviewing the client's requirements and project scope.
+
+Clients can contact TechNova AI Solutions for a customized quotation.
+
+Note: This is a fictional company created for an AI RAG chatbot demonstration project.

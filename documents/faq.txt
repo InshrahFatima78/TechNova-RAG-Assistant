@@ -1,0 +1,78 @@
+TECHNOVA AI SOLUTIONS
+Frequently Asked Questions
+
+Q1: What does TechNova AI Solutions do?
+
+TechNova AI Solutions provides artificial intelligence and software development services, including AI chatbot development, RAG-based AI assistants, machine learning solutions, business automation, and custom AI applications.
+
+Q2: Does TechNova develop AI chatbots?
+
+Yes. TechNova develops custom AI chatbots for websites and digital platforms.
+
+Q3: What is a RAG-based AI assistant?
+
+A RAG-based AI assistant retrieves relevant information from a connected knowledge base or documents and uses that information to generate answers to user questions.
+
+Q4: Can the AI assistant answer questions from PDF documents?
+
+Yes. TechNova can develop AI assistants that use information from PDF documents and other supported knowledge sources.
+
+Q5: What types of documents can be used?
+
+Depending on the system configuration, supported knowledge sources may include PDF documents, FAQs, company policies, product documentation, and internal business documents.
+
+Q6: Does TechNova provide machine learning services?
+
+Yes. TechNova provides machine learning solutions for prediction, classification, regression, data analysis, and business intelligence.
+
+Q7: Does TechNova provide business automation?
+
+Yes. TechNova develops automation workflows that can help businesses reduce repetitive tasks and connect different applications.
+
+Q8: How much does an AI chatbot cost?
+
+AI chatbot projects start from $100 for basic solutions. The final price depends on the project requirements, features, integrations, and complexity.
+
+Q9: How much does a RAG-based AI assistant cost?
+
+RAG-based AI assistant projects start from $250 for basic solutions. Advanced solutions may start from $500 or more depending on the requirements.
+
+Q10: How much does a machine learning project cost?
+
+Machine learning projects start from $300. The final cost depends on the dataset, model complexity, preprocessing, evaluation, and deployment requirements.
+
+Q11: Can TechNova build custom AI applications?
+
+Yes. TechNova develops customized AI applications based on specific business requirements.
+
+Q12: Can I request a custom quotation?
+
+Yes. Clients can contact TechNova with their project requirements to receive a customized quotation.
+
+Q13: What are TechNova's business hours?
+
+TechNova's business hours are Monday to Friday from 9:00 AM to 6:00 PM and Saturday from 10:00 AM to 2:00 PM.
+
+Q14: Is TechNova open on Sunday?
+
+No. TechNova is closed on Sunday.
+
+Q15: How can I contact TechNova?
+
+Customers can contact TechNova through the support email:
+
+support@technova-ai.example
+
+Q16: What happens if the information I need is not available in the knowledge base?
+
+The AI assistant should inform the user that the requested information could not be found in the available knowledge base rather than generating an unsupported answer.
+
+Q17: Can I request a feature that was not included in the original project scope?
+
+Yes. Additional features can be discussed with TechNova. New features outside the original scope may require additional development time and cost.
+
+Q18: What is the support response time?
+
+General support requests are normally reviewed within 1 to 2 business days.
+
+Note: This is a fictional company created for an AI RAG chatbot demonstration project.
